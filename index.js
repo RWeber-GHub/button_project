@@ -1,21 +1,3 @@
-
-//This is my answer to the multiplication table
-
-// function MultiTable() {
-//     let x = prompt("Enter your number")
-//     let size = prompt("Enter the size of your table")
-//     let div = document.getElementById("div")
-//         div.innerHTML = ''
-//     for (let i = 1; i <= size; i++) {
-//         let table = document.createElement("p")
-//         table.textContent = `${x} * ${i} = ${x * i}`
-//         div.appendChild(table)
-//     }   
-// }
-
-
-//This is my answer to the button problem
-
 const startingColors = [];
 const buttonContainer = document.getElementById('buttonContainer');
 
